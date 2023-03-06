@@ -18,6 +18,10 @@ $themes.json
 global.json
 ```
 
+## Preview on Figma
+
+![tokens-figma](https://user-images.githubusercontent.com/107867539/223058104-b320a7ea-dab4-4191-a74c-e02cdcf16d48.png)
+
 ## Credits
 
 Created at work on Virdee. All rights reserved. 
