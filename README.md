@@ -7,7 +7,7 @@ Design tokens to use with the Design System in Figma.
 Use the Figma Token to use on  the design project or use the JSON for development.
 
 ```bash
-tokens-virdee-3sixty.json
+tokens-virdee.json
 ```
 
 Also, you can access the separated files inside the folder separated-files:
